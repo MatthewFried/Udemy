@@ -1,0 +1,1402 @@
+[
+  {
+    "customer_id": 1,
+    "gender": "Male",
+    "age": 19,
+    "annual_income": 15000,
+    "spending_score": 39
+  },
+  {
+    "customer_id": 2,
+    "gender": "Male",
+    "age": 21,
+    "annual_income": 15000,
+    "spending_score": 81
+  },
+  {
+    "customer_id": 3,
+    "gender": "Female",
+    "age": 20,
+    "annual_income": 16000,
+    "spending_score": 6
+  },
+  {
+    "customer_id": 4,
+    "gender": "Female",
+    "age": 23,
+    "annual_income": 16000,
+    "spending_score": 77
+  },
+  {
+    "customer_id": 5,
+    "gender": "Female",
+    "age": 31,
+    "annual_income": 17000,
+    "spending_score": 40
+  },
+  {
+    "customer_id": 6,
+    "gender": "Female",
+    "age": 22,
+    "annual_income": 17000,
+    "spending_score": 76
+  },
+  {
+    "customer_id": 7,
+    "gender": "Female",
+    "age": 35,
+    "annual_income": 18000,
+    "spending_score": 6
+  },
+  {
+    "customer_id": 8,
+    "gender": "Female",
+    "age": 23,
+    "annual_income": 18000,
+    "spending_score": 94
+  },
+  {
+    "customer_id": 9,
+    "gender": "Male",
+    "age": 64,
+    "annual_income": 19000,
+    "spending_score": 3
+  },
+  {
+    "customer_id": 10,
+    "gender": "Female",
+    "age": 30,
+    "annual_income": 19000,
+    "spending_score": 72
+  },
+  {
+    "customer_id": 11,
+    "gender": "Male",
+    "age": 67,
+    "annual_income": 19000,
+    "spending_score": 14
+  },
+  {
+    "customer_id": 12,
+    "gender": "Female",
+    "age": 35,
+    "annual_income": 19000,
+    "spending_score": 99
+  },
+  {
+    "customer_id": 13,
+    "gender": "Female",
+    "age": 58,
+    "annual_income": 20000,
+    "spending_score": 15
+  },
+  {
+    "customer_id": 14,
+    "gender": "Female",
+    "age": 24,
+    "annual_income": 20000,
+    "spending_score": 77
+  },
+  {
+    "customer_id": 15,
+    "gender": "Male",
+    "age": 37,
+    "annual_income": 20000,
+    "spending_score": 13
+  },
+  {
+    "customer_id": 16,
+    "gender": "Male",
+    "age": 22,
+    "annual_income": 20000,
+    "spending_score": 79
+  },
+  {
+    "customer_id": 17,
+    "gender": "Female",
+    "age": 35,
+    "annual_income": 21000,
+    "spending_score": 35
+  },
+  {
+    "customer_id": 18,
+    "gender": "Male",
+    "age": 20,
+    "annual_income": 21000,
+    "spending_score": 66
+  },
+  {
+    "customer_id": 19,
+    "gender": "Male",
+    "age": 52,
+    "annual_income": 23000,
+    "spending_score": 29
+  },
+  {
+    "customer_id": 20,
+    "gender": "Female",
+    "age": 35,
+    "annual_income": 23000,
+    "spending_score": 98
+  },
+  {
+    "customer_id": 21,
+    "gender": "Male",
+    "age": 35,
+    "annual_income": 24000,
+    "spending_score": 35
+  },
+  {
+    "customer_id": 22,
+    "gender": "Male",
+    "age": 25,
+    "annual_income": 24000,
+    "spending_score": 73
+  },
+  {
+    "customer_id": 23,
+    "gender": "Female",
+    "age": 46,
+    "annual_income": 25000,
+    "spending_score": 5
+  },
+  {
+    "customer_id": 24,
+    "gender": "Male",
+    "age": 31,
+    "annual_income": 25000,
+    "spending_score": 73
+  },
+  {
+    "customer_id": 25,
+    "gender": "Female",
+    "age": 54,
+    "annual_income": 28000,
+    "spending_score": 14
+  },
+  {
+    "customer_id": 26,
+    "gender": "Male",
+    "age": 29,
+    "annual_income": 28000,
+    "spending_score": 82
+  },
+  {
+    "customer_id": 27,
+    "gender": "Female",
+    "age": 45,
+    "annual_income": 28000,
+    "spending_score": 32
+  },
+  {
+    "customer_id": 28,
+    "gender": "Male",
+    "age": 35,
+    "annual_income": 28000,
+    "spending_score": 61
+  },
+  {
+    "customer_id": 29,
+    "gender": "Female",
+    "age": 40,
+    "annual_income": 29000,
+    "spending_score": 31
+  },
+  {
+    "customer_id": 30,
+    "gender": "Female",
+    "age": 23,
+    "annual_income": 29000,
+    "spending_score": 87
+  },
+  {
+    "customer_id": 31,
+    "gender": "Male",
+    "age": 60,
+    "annual_income": 30000,
+    "spending_score": 4
+  },
+  {
+    "customer_id": 32,
+    "gender": "Female",
+    "age": 21,
+    "annual_income": 30000,
+    "spending_score": 73
+  },
+  {
+    "customer_id": 33,
+    "gender": "Male",
+    "age": 53,
+    "annual_income": 33000,
+    "spending_score": 4
+  },
+  {
+    "customer_id": 34,
+    "gender": "Male",
+    "age": 18,
+    "annual_income": 33000,
+    "spending_score": 92
+  },
+  {
+    "customer_id": 35,
+    "gender": "Female",
+    "age": 49,
+    "annual_income": 33000,
+    "spending_score": 14
+  },
+  {
+    "customer_id": 36,
+    "gender": "Female",
+    "age": 21,
+    "annual_income": 33000,
+    "spending_score": 81
+  },
+  {
+    "customer_id": 37,
+    "gender": "Female",
+    "age": 42,
+    "annual_income": 34000,
+    "spending_score": 17
+  },
+  {
+    "customer_id": 38,
+    "gender": "Female",
+    "age": 30,
+    "annual_income": 34000,
+    "spending_score": 73
+  },
+  {
+    "customer_id": 39,
+    "gender": "Female",
+    "age": 36,
+    "annual_income": 37000,
+    "spending_score": 26
+  },
+  {
+    "customer_id": 40,
+    "gender": "Female",
+    "age": 20,
+    "annual_income": 37000,
+    "spending_score": 75
+  },
+  {
+    "customer_id": 41,
+    "gender": "Female",
+    "age": 65,
+    "annual_income": 38000,
+    "spending_score": 35
+  },
+  {
+    "customer_id": 42,
+    "gender": "Male",
+    "age": 24,
+    "annual_income": 38000,
+    "spending_score": 92
+  },
+  {
+    "customer_id": 43,
+    "gender": "Male",
+    "age": 48,
+    "annual_income": 39000,
+    "spending_score": 36
+  },
+  {
+    "customer_id": 44,
+    "gender": "Female",
+    "age": 31,
+    "annual_income": 39000,
+    "spending_score": 61
+  },
+  {
+    "customer_id": 45,
+    "gender": "Female",
+    "age": 49,
+    "annual_income": 39000,
+    "spending_score": 28
+  },
+  {
+    "customer_id": 46,
+    "gender": "Female",
+    "age": 24,
+    "annual_income": 39000,
+    "spending_score": 65
+  },
+  {
+    "customer_id": 47,
+    "gender": "Female",
+    "age": 50,
+    "annual_income": 40000,
+    "spending_score": 55
+  },
+  {
+    "customer_id": 48,
+    "gender": "Female",
+    "age": 27,
+    "annual_income": 40000,
+    "spending_score": 47
+  },
+  {
+    "customer_id": 49,
+    "gender": "Female",
+    "age": 29,
+    "annual_income": 40000,
+    "spending_score": 42
+  },
+  {
+    "customer_id": 50,
+    "gender": "Female",
+    "age": 31,
+    "annual_income": 40000,
+    "spending_score": 42
+  },
+  {
+    "customer_id": 51,
+    "gender": "Female",
+    "age": 49,
+    "annual_income": 42000,
+    "spending_score": 52
+  },
+  {
+    "customer_id": 52,
+    "gender": "Male",
+    "age": 33,
+    "annual_income": 42000,
+    "spending_score": 60
+  },
+  {
+    "customer_id": 53,
+    "gender": "Female",
+    "age": 31,
+    "annual_income": 43000,
+    "spending_score": 54
+  },
+  {
+    "customer_id": 54,
+    "gender": "Male",
+    "age": 59,
+    "annual_income": 43000,
+    "spending_score": 60
+  },
+  {
+    "customer_id": 55,
+    "gender": "Female",
+    "age": 50,
+    "annual_income": 43000,
+    "spending_score": 45
+  },
+  {
+    "customer_id": 56,
+    "gender": "Male",
+    "age": 47,
+    "annual_income": 43000,
+    "spending_score": 41
+  },
+  {
+    "customer_id": 57,
+    "gender": "Female",
+    "age": 51,
+    "annual_income": 44000,
+    "spending_score": 50
+  },
+  {
+    "customer_id": 58,
+    "gender": "Male",
+    "age": 69,
+    "annual_income": 44000,
+    "spending_score": 46
+  },
+  {
+    "customer_id": 59,
+    "gender": "Female",
+    "age": 27,
+    "annual_income": 46000,
+    "spending_score": 51
+  },
+  {
+    "customer_id": 60,
+    "gender": "Male",
+    "age": 53,
+    "annual_income": 46000,
+    "spending_score": 46
+  },
+  {
+    "customer_id": 61,
+    "gender": "Male",
+    "age": 70,
+    "annual_income": 46000,
+    "spending_score": 56
+  },
+  {
+    "customer_id": 62,
+    "gender": "Male",
+    "age": 19,
+    "annual_income": 46000,
+    "spending_score": 55
+  },
+  {
+    "customer_id": 63,
+    "gender": "Female",
+    "age": 67,
+    "annual_income": 47000,
+    "spending_score": 52
+  },
+  {
+    "customer_id": 64,
+    "gender": "Female",
+    "age": 54,
+    "annual_income": 47000,
+    "spending_score": 59
+  },
+  {
+    "customer_id": 65,
+    "gender": "Male",
+    "age": 63,
+    "annual_income": 48000,
+    "spending_score": 51
+  },
+  {
+    "customer_id": 66,
+    "gender": "Male",
+    "age": 18,
+    "annual_income": 48000,
+    "spending_score": 59
+  },
+  {
+    "customer_id": 67,
+    "gender": "Female",
+    "age": 43,
+    "annual_income": 48000,
+    "spending_score": 50
+  },
+  {
+    "customer_id": 68,
+    "gender": "Female",
+    "age": 68,
+    "annual_income": 48000,
+    "spending_score": 48
+  },
+  {
+    "customer_id": 69,
+    "gender": "Male",
+    "age": 19,
+    "annual_income": 48000,
+    "spending_score": 59
+  },
+  {
+    "customer_id": 70,
+    "gender": "Female",
+    "age": 32,
+    "annual_income": 48000,
+    "spending_score": 47
+  },
+  {
+    "customer_id": 71,
+    "gender": "Male",
+    "age": 70,
+    "annual_income": 49000,
+    "spending_score": 55
+  },
+  {
+    "customer_id": 72,
+    "gender": "Female",
+    "age": 47,
+    "annual_income": 49000,
+    "spending_score": 42
+  },
+  {
+    "customer_id": 73,
+    "gender": "Female",
+    "age": 60,
+    "annual_income": 50000,
+    "spending_score": 49
+  },
+  {
+    "customer_id": 74,
+    "gender": "Female",
+    "age": 60,
+    "annual_income": 50000,
+    "spending_score": 56
+  },
+  {
+    "customer_id": 75,
+    "gender": "Male",
+    "age": 59,
+    "annual_income": 54000,
+    "spending_score": 47
+  },
+  {
+    "customer_id": 76,
+    "gender": "Male",
+    "age": 26,
+    "annual_income": 54000,
+    "spending_score": 54
+  },
+  {
+    "customer_id": 77,
+    "gender": "Female",
+    "age": 45,
+    "annual_income": 54000,
+    "spending_score": 53
+  },
+  {
+    "customer_id": 78,
+    "gender": "Male",
+    "age": 40,
+    "annual_income": 54000,
+    "spending_score": 48
+  },
+  {
+    "customer_id": 79,
+    "gender": "Female",
+    "age": 23,
+    "annual_income": 54000,
+    "spending_score": 52
+  },
+  {
+    "customer_id": 80,
+    "gender": "Female",
+    "age": 49,
+    "annual_income": 54000,
+    "spending_score": 42
+  },
+  {
+    "customer_id": 81,
+    "gender": "Male",
+    "age": 57,
+    "annual_income": 54000,
+    "spending_score": 51
+  },
+  {
+    "customer_id": 82,
+    "gender": "Male",
+    "age": 38,
+    "annual_income": 54000,
+    "spending_score": 55
+  },
+  {
+    "customer_id": 83,
+    "gender": "Male",
+    "age": 67,
+    "annual_income": 54000,
+    "spending_score": 41
+  },
+  {
+    "customer_id": 84,
+    "gender": "Female",
+    "age": 46,
+    "annual_income": 54000,
+    "spending_score": 44
+  },
+  {
+    "customer_id": 85,
+    "gender": "Female",
+    "age": 21,
+    "annual_income": 54000,
+    "spending_score": 57
+  },
+  {
+    "customer_id": 86,
+    "gender": "Male",
+    "age": 48,
+    "annual_income": 54000,
+    "spending_score": 46
+  },
+  {
+    "customer_id": 87,
+    "gender": "Female",
+    "age": 55,
+    "annual_income": 57000,
+    "spending_score": 58
+  },
+  {
+    "customer_id": 88,
+    "gender": "Female",
+    "age": 22,
+    "annual_income": 57000,
+    "spending_score": 55
+  },
+  {
+    "customer_id": 89,
+    "gender": "Female",
+    "age": 34,
+    "annual_income": 58000,
+    "spending_score": 60
+  },
+  {
+    "customer_id": 90,
+    "gender": "Female",
+    "age": 50,
+    "annual_income": 58000,
+    "spending_score": 46
+  },
+  {
+    "customer_id": 91,
+    "gender": "Female",
+    "age": 68,
+    "annual_income": 59000,
+    "spending_score": 55
+  },
+  {
+    "customer_id": 92,
+    "gender": "Male",
+    "age": 18,
+    "annual_income": 59000,
+    "spending_score": 41
+  },
+  {
+    "customer_id": 93,
+    "gender": "Male",
+    "age": 48,
+    "annual_income": 60000,
+    "spending_score": 49
+  },
+  {
+    "customer_id": 94,
+    "gender": "Female",
+    "age": 40,
+    "annual_income": 60000,
+    "spending_score": 40
+  },
+  {
+    "customer_id": 95,
+    "gender": "Female",
+    "age": 32,
+    "annual_income": 60000,
+    "spending_score": 42
+  },
+  {
+    "customer_id": 96,
+    "gender": "Male",
+    "age": 24,
+    "annual_income": 60000,
+    "spending_score": 52
+  },
+  {
+    "customer_id": 97,
+    "gender": "Female",
+    "age": 47,
+    "annual_income": 60000,
+    "spending_score": 47
+  },
+  {
+    "customer_id": 98,
+    "gender": "Female",
+    "age": 27,
+    "annual_income": 60000,
+    "spending_score": 50
+  },
+  {
+    "customer_id": 99,
+    "gender": "Male",
+    "age": 48,
+    "annual_income": 61000,
+    "spending_score": 42
+  },
+  {
+    "customer_id": 100,
+    "gender": "Male",
+    "age": 20,
+    "annual_income": 61000,
+    "spending_score": 49
+  },
+  {
+    "customer_id": 101,
+    "gender": "Female",
+    "age": 23,
+    "annual_income": 62000,
+    "spending_score": 41
+  },
+  {
+    "customer_id": 102,
+    "gender": "Female",
+    "age": 49,
+    "annual_income": 62000,
+    "spending_score": 48
+  },
+  {
+    "customer_id": 103,
+    "gender": "Male",
+    "age": 67,
+    "annual_income": 62000,
+    "spending_score": 59
+  },
+  {
+    "customer_id": 104,
+    "gender": "Male",
+    "age": 26,
+    "annual_income": 62000,
+    "spending_score": 55
+  },
+  {
+    "customer_id": 105,
+    "gender": "Male",
+    "age": 49,
+    "annual_income": 62000,
+    "spending_score": 56
+  },
+  {
+    "customer_id": 106,
+    "gender": "Female",
+    "age": 21,
+    "annual_income": 62000,
+    "spending_score": 42
+  },
+  {
+    "customer_id": 107,
+    "gender": "Female",
+    "age": 66,
+    "annual_income": 63000,
+    "spending_score": 50
+  },
+  {
+    "customer_id": 108,
+    "gender": "Male",
+    "age": 54,
+    "annual_income": 63000,
+    "spending_score": 46
+  },
+  {
+    "customer_id": 109,
+    "gender": "Male",
+    "age": 68,
+    "annual_income": 63000,
+    "spending_score": 43
+  },
+  {
+    "customer_id": 110,
+    "gender": "Male",
+    "age": 66,
+    "annual_income": 63000,
+    "spending_score": 48
+  },
+  {
+    "customer_id": 111,
+    "gender": "Male",
+    "age": 65,
+    "annual_income": 63000,
+    "spending_score": 52
+  },
+  {
+    "customer_id": 112,
+    "gender": "Female",
+    "age": 19,
+    "annual_income": 63000,
+    "spending_score": 54
+  },
+  {
+    "customer_id": 113,
+    "gender": "Female",
+    "age": 38,
+    "annual_income": 64000,
+    "spending_score": 42
+  },
+  {
+    "customer_id": 114,
+    "gender": "Male",
+    "age": 19,
+    "annual_income": 64000,
+    "spending_score": 46
+  },
+  {
+    "customer_id": 115,
+    "gender": "Female",
+    "age": 18,
+    "annual_income": 65000,
+    "spending_score": 48
+  },
+  {
+    "customer_id": 116,
+    "gender": "Female",
+    "age": 19,
+    "annual_income": 65000,
+    "spending_score": 50
+  },
+  {
+    "customer_id": 117,
+    "gender": "Female",
+    "age": 63,
+    "annual_income": 65000,
+    "spending_score": 43
+  },
+  {
+    "customer_id": 118,
+    "gender": "Female",
+    "age": 49,
+    "annual_income": 65000,
+    "spending_score": 59
+  },
+  {
+    "customer_id": 119,
+    "gender": "Female",
+    "age": 51,
+    "annual_income": 67000,
+    "spending_score": 43
+  },
+  {
+    "customer_id": 120,
+    "gender": "Female",
+    "age": 50,
+    "annual_income": 67000,
+    "spending_score": 57
+  },
+  {
+    "customer_id": 121,
+    "gender": "Male",
+    "age": 27,
+    "annual_income": 67000,
+    "spending_score": 56
+  },
+  {
+    "customer_id": 122,
+    "gender": "Female",
+    "age": 38,
+    "annual_income": 67000,
+    "spending_score": 40
+  },
+  {
+    "customer_id": 123,
+    "gender": "Female",
+    "age": 40,
+    "annual_income": 69000,
+    "spending_score": 58
+  },
+  {
+    "customer_id": 124,
+    "gender": "Male",
+    "age": 39,
+    "annual_income": 69000,
+    "spending_score": 91
+  },
+  {
+    "customer_id": 125,
+    "gender": "Female",
+    "age": 23,
+    "annual_income": 70000,
+    "spending_score": 29
+  },
+  {
+    "customer_id": 126,
+    "gender": "Female",
+    "age": 31,
+    "annual_income": 70000,
+    "spending_score": 77
+  },
+  {
+    "customer_id": 127,
+    "gender": "Male",
+    "age": 43,
+    "annual_income": 71000,
+    "spending_score": 35
+  },
+  {
+    "customer_id": 128,
+    "gender": "Male",
+    "age": 40,
+    "annual_income": 71000,
+    "spending_score": 95
+  },
+  {
+    "customer_id": 129,
+    "gender": "Male",
+    "age": 59,
+    "annual_income": 71000,
+    "spending_score": 11
+  },
+  {
+    "customer_id": 130,
+    "gender": "Male",
+    "age": 38,
+    "annual_income": 71000,
+    "spending_score": 75
+  },
+  {
+    "customer_id": 131,
+    "gender": "Male",
+    "age": 47,
+    "annual_income": 71000,
+    "spending_score": 9
+  },
+  {
+    "customer_id": 132,
+    "gender": "Male",
+    "age": 39,
+    "annual_income": 71000,
+    "spending_score": 75
+  },
+  {
+    "customer_id": 133,
+    "gender": "Female",
+    "age": 25,
+    "annual_income": 72000,
+    "spending_score": 34
+  },
+  {
+    "customer_id": 134,
+    "gender": "Female",
+    "age": 31,
+    "annual_income": 72000,
+    "spending_score": 71
+  },
+  {
+    "customer_id": 135,
+    "gender": "Male",
+    "age": 20,
+    "annual_income": 73000,
+    "spending_score": 5
+  },
+  {
+    "customer_id": 136,
+    "gender": "Female",
+    "age": 29,
+    "annual_income": 73000,
+    "spending_score": 88
+  },
+  {
+    "customer_id": 137,
+    "gender": "Female",
+    "age": 44,
+    "annual_income": 73000,
+    "spending_score": 7
+  },
+  {
+    "customer_id": 138,
+    "gender": "Male",
+    "age": 32,
+    "annual_income": 73000,
+    "spending_score": 73
+  },
+  {
+    "customer_id": 139,
+    "gender": "Male",
+    "age": 19,
+    "annual_income": 74000,
+    "spending_score": 10
+  },
+  {
+    "customer_id": 140,
+    "gender": "Female",
+    "age": 35,
+    "annual_income": 74000,
+    "spending_score": 72
+  },
+  {
+    "customer_id": 141,
+    "gender": "Female",
+    "age": 57,
+    "annual_income": 75000,
+    "spending_score": 5
+  },
+  {
+    "customer_id": 142,
+    "gender": "Male",
+    "age": 32,
+    "annual_income": 75000,
+    "spending_score": 93
+  },
+  {
+    "customer_id": 143,
+    "gender": "Female",
+    "age": 28,
+    "annual_income": 76000,
+    "spending_score": 40
+  },
+  {
+    "customer_id": 144,
+    "gender": "Female",
+    "age": 32,
+    "annual_income": 76000,
+    "spending_score": 87
+  },
+  {
+    "customer_id": 145,
+    "gender": "Male",
+    "age": 25,
+    "annual_income": 77000,
+    "spending_score": 12
+  },
+  {
+    "customer_id": 146,
+    "gender": "Male",
+    "age": 28,
+    "annual_income": 77000,
+    "spending_score": 97
+  },
+  {
+    "customer_id": 147,
+    "gender": "Male",
+    "age": 48,
+    "annual_income": 77000,
+    "spending_score": 36
+  },
+  {
+    "customer_id": 148,
+    "gender": "Female",
+    "age": 32,
+    "annual_income": 77000,
+    "spending_score": 74
+  },
+  {
+    "customer_id": 149,
+    "gender": "Female",
+    "age": 34,
+    "annual_income": 78000,
+    "spending_score": 22
+  },
+  {
+    "customer_id": 150,
+    "gender": "Male",
+    "age": 34,
+    "annual_income": 78000,
+    "spending_score": 90
+  },
+  {
+    "customer_id": 151,
+    "gender": "Male",
+    "age": 43,
+    "annual_income": 78000,
+    "spending_score": 17
+  },
+  {
+    "customer_id": 152,
+    "gender": "Male",
+    "age": 39,
+    "annual_income": 78000,
+    "spending_score": 88
+  },
+  {
+    "customer_id": 153,
+    "gender": "Female",
+    "age": 44,
+    "annual_income": 78000,
+    "spending_score": 20
+  },
+  {
+    "customer_id": 154,
+    "gender": "Female",
+    "age": 38,
+    "annual_income": 78000,
+    "spending_score": 76
+  },
+  {
+    "customer_id": 155,
+    "gender": "Female",
+    "age": 47,
+    "annual_income": 78000,
+    "spending_score": 16
+  },
+  {
+    "customer_id": 156,
+    "gender": "Female",
+    "age": 27,
+    "annual_income": 78000,
+    "spending_score": 89
+  },
+  {
+    "customer_id": 157,
+    "gender": "Male",
+    "age": 37,
+    "annual_income": 78000,
+    "spending_score": 1
+  },
+  {
+    "customer_id": 158,
+    "gender": "Female",
+    "age": 30,
+    "annual_income": 78000,
+    "spending_score": 78
+  },
+  {
+    "customer_id": 159,
+    "gender": "Male",
+    "age": 34,
+    "annual_income": 78000,
+    "spending_score": 1
+  },
+  {
+    "customer_id": 160,
+    "gender": "Female",
+    "age": 30,
+    "annual_income": 78000,
+    "spending_score": 73
+  },
+  {
+    "customer_id": 161,
+    "gender": "Female",
+    "age": 56,
+    "annual_income": 79000,
+    "spending_score": 35
+  },
+  {
+    "customer_id": 162,
+    "gender": "Female",
+    "age": 29,
+    "annual_income": 79000,
+    "spending_score": 83
+  },
+  {
+    "customer_id": 163,
+    "gender": "Male",
+    "age": 19,
+    "annual_income": 81000,
+    "spending_score": 5
+  },
+  {
+    "customer_id": 164,
+    "gender": "Female",
+    "age": 31,
+    "annual_income": 81000,
+    "spending_score": 93
+  },
+  {
+    "customer_id": 165,
+    "gender": "Male",
+    "age": 50,
+    "annual_income": 85000,
+    "spending_score": 26
+  },
+  {
+    "customer_id": 166,
+    "gender": "Female",
+    "age": 36,
+    "annual_income": 85000,
+    "spending_score": 75
+  },
+  {
+    "customer_id": 167,
+    "gender": "Male",
+    "age": 42,
+    "annual_income": 86000,
+    "spending_score": 20
+  },
+  {
+    "customer_id": 168,
+    "gender": "Female",
+    "age": 33,
+    "annual_income": 86000,
+    "spending_score": 95
+  },
+  {
+    "customer_id": 169,
+    "gender": "Female",
+    "age": 36,
+    "annual_income": 87000,
+    "spending_score": 27
+  },
+  {
+    "customer_id": 170,
+    "gender": "Male",
+    "age": 32,
+    "annual_income": 87000,
+    "spending_score": 63
+  },
+  {
+    "customer_id": 171,
+    "gender": "Male",
+    "age": 40,
+    "annual_income": 87000,
+    "spending_score": 13
+  },
+  {
+    "customer_id": 172,
+    "gender": "Male",
+    "age": 28,
+    "annual_income": 87000,
+    "spending_score": 75
+  },
+  {
+    "customer_id": 173,
+    "gender": "Male",
+    "age": 36,
+    "annual_income": 87000,
+    "spending_score": 10
+  },
+  {
+    "customer_id": 174,
+    "gender": "Male",
+    "age": 36,
+    "annual_income": 87000,
+    "spending_score": 92
+  },
+  {
+    "customer_id": 175,
+    "gender": "Female",
+    "age": 52,
+    "annual_income": 88000,
+    "spending_score": 13
+  },
+  {
+    "customer_id": 176,
+    "gender": "Female",
+    "age": 30,
+    "annual_income": 88000,
+    "spending_score": 86
+  },
+  {
+    "customer_id": 177,
+    "gender": "Male",
+    "age": 58,
+    "annual_income": 88000,
+    "spending_score": 15
+  },
+  {
+    "customer_id": 178,
+    "gender": "Male",
+    "age": 27,
+    "annual_income": 88000,
+    "spending_score": 69
+  },
+  {
+    "customer_id": 179,
+    "gender": "Male",
+    "age": 59,
+    "annual_income": 93000,
+    "spending_score": 14
+  },
+  {
+    "customer_id": 180,
+    "gender": "Male",
+    "age": 35,
+    "annual_income": 93000,
+    "spending_score": 90
+  },
+  {
+    "customer_id": 181,
+    "gender": "Female",
+    "age": 37,
+    "annual_income": 97000,
+    "spending_score": 32
+  },
+  {
+    "customer_id": 182,
+    "gender": "Female",
+    "age": 32,
+    "annual_income": 97000,
+    "spending_score": 86
+  },
+  {
+    "customer_id": 183,
+    "gender": "Male",
+    "age": 46,
+    "annual_income": 98000,
+    "spending_score": 15
+  },
+  {
+    "customer_id": 184,
+    "gender": "Female",
+    "age": 29,
+    "annual_income": 98000,
+    "spending_score": 88
+  },
+  {
+    "customer_id": 185,
+    "gender": "Female",
+    "age": 41,
+    "annual_income": 99000,
+    "spending_score": 39
+  },
+  {
+    "customer_id": 186,
+    "gender": "Male",
+    "age": 30,
+    "annual_income": 99000,
+    "spending_score": 97
+  },
+  {
+    "customer_id": 187,
+    "gender": "Female",
+    "age": 54,
+    "annual_income": 101000,
+    "spending_score": 24
+  },
+  {
+    "customer_id": 188,
+    "gender": "Male",
+    "age": 28,
+    "annual_income": 101000,
+    "spending_score": 68
+  },
+  {
+    "customer_id": 189,
+    "gender": "Female",
+    "age": 41,
+    "annual_income": 103000,
+    "spending_score": 17
+  },
+  {
+    "customer_id": 190,
+    "gender": "Female",
+    "age": 36,
+    "annual_income": 103000,
+    "spending_score": 85
+  },
+  {
+    "customer_id": 191,
+    "gender": "Female",
+    "age": 34,
+    "annual_income": 103000,
+    "spending_score": 23
+  },
+  {
+    "customer_id": 192,
+    "gender": "Female",
+    "age": 32,
+    "annual_income": 103000,
+    "spending_score": 69
+  },
+  {
+    "customer_id": 193,
+    "gender": "Male",
+    "age": 33,
+    "annual_income": 113000,
+    "spending_score": 8
+  },
+  {
+    "customer_id": 194,
+    "gender": "Female",
+    "age": 38,
+    "annual_income": 113000,
+    "spending_score": 91
+  },
+  {
+    "customer_id": 195,
+    "gender": "Female",
+    "age": 47,
+    "annual_income": 120000,
+    "spending_score": 16
+  },
+  {
+    "customer_id": 196,
+    "gender": "Female",
+    "age": 35,
+    "annual_income": 120000,
+    "spending_score": 79
+  },
+  {
+    "customer_id": 197,
+    "gender": "Female",
+    "age": 45,
+    "annual_income": 126000,
+    "spending_score": 28
+  },
+  {
+    "customer_id": 198,
+    "gender": "Male",
+    "age": 32,
+    "annual_income": 126000,
+    "spending_score": 74
+  },
+  {
+    "customer_id": 199,
+    "gender": "Male",
+    "age": 32,
+    "annual_income": 137000,
+    "spending_score": 18
+  },
+  {
+    "customer_id": 200,
+    "gender": "Male",
+    "age": 30,
+    "annual_income": 137000,
+    "spending_score": 83
+  }
+]
